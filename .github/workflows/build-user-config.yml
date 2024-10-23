@@ -179,4 +179,4 @@ jobs:
         with:
           name: ${{ inputs.archive_name }}
           pattern: artifact-*
-          delete-merged: true
+          delete-merged: false
